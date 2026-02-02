@@ -1,0 +1,23 @@
+# erzeugte ISO-Dateien
+*.iso
+
+# QEMU temporäre Dateien
+*.qcow2
+*.img
+*.log
+
+# Backup- und Editor-Dateien
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Build- und temporäre Verzeichnisse
+/tmp/
+build/
+dist/
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
