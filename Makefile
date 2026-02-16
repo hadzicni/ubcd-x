@@ -1,4 +1,4 @@
-ISO_NAME := memtest-bios.iso
+ISO_NAME := ubcdx-bios.iso
 SRC_DIR := src
 BUILD_DIR := build
 GRUB_MKRESCUE := grub-mkrescue
